@@ -1,0 +1,182 @@
+#options {
+  text-align: left;
+  margin-left: 5px;
+  bottom: 90px;
+  position: relative;
+  margin-bottom: 10px;
+}
+.menu-img {
+  width: 175px;
+  height: 175px;
+}
+td {
+  border: solid, black, 1px;
+  padding: 10px;
+}
+table {
+  margin: 10px 10px 10px 10px;
+  border: solid, black, 1px;
+  padding: 10px;
+  position: relative;
+  bottom: 70px;
+  left: 70px;
+}
+#menu-section {
+   border: solid, red, 10px;
+  background-color: white;
+  font-family: Bubblegum Sans;
+  color: black; 
+  margin-bottom: 10px;
+  margin-right: 0px;
+  height: 3500px;
+}
+#milwaukee {
+  position: relative;
+  top: 25px;
+  left: 45px;
+}
+#map-image {
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  right: 235px;
+  border: solid, red, 2px;
+}
+.location-section {
+  border: solid, red, 10px;
+  background-color: white;
+  font-family: Bubblegum Sans;
+  color: black; 
+  margin-bottom: 10px;
+  margin-right: 0px;
+  height: 200px;
+}
+#snacks-image {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  border: solid, red, 10px;
+  margin-left: 0px;
+  padding-top: 0px;
+  position: relative;
+  bottom: 330px;
+  display: inline-block;
+  height: 300px;
+  width: 400px;
+  padding-right: 0px;
+  float: right;
+  left: -50px;
+}
+#front-image {
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  border: solid, red, 10px;
+  padding-top: 0px;
+  position: relative;
+  right: 65px;
+  display: inline-block;
+  height: 300px;
+  width: 250px;
+}
+#hours-section {
+  border: solid, red, 10px;
+  background-color: white;
+  font-family: Bubblegum Sans;
+  color: black;
+}
+#counter-image {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  border: solid, red, 10px;
+  padding-top: 0px;
+  margin-right: 0px;
+  width: 400px;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  right: 135px;
+  float: left;
+}
+#header {
+  border: solid, red, 10px;
+  background-color: white;
+  color: black;
+  width: span;
+  position: static;
+  text-align: center;
+  margin-bottom: 0px;
+}
+#title {
+  font-family: Bubblegum Sans;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-left: 0px; 
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+p {
+  display: inline-block;
+  font-family: Bubblegum Sans;
+  text-align: center; 
+  padding-bottom: 0px;
+  margin-top: 20px;
+  padding-top: 0px;
+}
+#left-image {
+  width: 175px;
+  height: 100px;
+  margin-bottom: 10px;
+  float: left;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  position: relative;
+  bottom: 75px;
+  left: 100px;
+}
+#right-image {
+ width: 150px;
+ height: 150px;
+ margin-bottom: 10px;
+ float: right;
+ padding-top: 0px;
+ padding-bottom: 0px;
+ padding-right: 0px;
+ padding-left: 0px;
+ position: relative;
+ bottom: 100px;
+ right: 100px;
+}
+
+body {
+  background-color: black;
+  z-index: 1;
+}
+#location {
+margin-left: -25px;
+}
+#hours {
+margin-left: 50px;
+}
+#menu {
+margin-left: 50px;
+}
+#order {
+margin-left: 50px;
+}
+#contact {
+margin-left: 50px;
+}
+#reviews {
+margin-left: 50px;
+}
+#socials {
+left: 1000px;
+position: relative;
+bottom: 150px;
+}
